@@ -17,6 +17,7 @@ Description: A collection of 96x96 histological images.
 
 # Results
 Best Validation Accuracy: 0.8267
+Tableau: "https://public.tableau.com/views/CancerDetectionCNN/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
 
 # Contributors
 Kosiasochukwu Uchemudi Uzoka - Author
